@@ -1,2 +1,2 @@
 # testvla2024
-Hola Tai
+Clase 23/04 comandos
